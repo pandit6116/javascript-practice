@@ -14,3 +14,23 @@ This repository contains JavaScript practice problems and concepts.
 - Async / Await
 - Event Loop
 - Hoisting
+
+## Projects
+
+# Trip Calc
+
+A calculator built using HTML, CSS, and JavaScript.
+
+Features:
+- Buttons
+- Keyboard support
+- Backspace
+- Decimal numbers
+- Error handling
+- Calculation history
+- Responsive design
+
+File:
+HTML
+CSS
+JavaScript
