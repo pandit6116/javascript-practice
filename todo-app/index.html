@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Trip Todo Ultimate</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Trip Todo</h1>
+
+<div class="input-section">
+<input type="text" id="taskInput" placeholder="Add task...">
+<button id="addBtn">Add</button>
+</div>
+
+<div class="filters">
+<button onclick="filterTasks('all')">All</button>
+<button onclick="filterTasks('active')">Active</button>
+<button onclick="filterTasks('completed')">Completed</button>
+<button id="modeToggle">🌙</button>
+</div>
+
+<ul id="taskList"></ul>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
